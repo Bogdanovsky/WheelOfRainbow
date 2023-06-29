@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<set xmlns:android="http://schemas.android.com/apk/res/android"
+    android:ordering="sequentially">
+    <set>
+        <objectAnimator
+            android:duration="5000"
+            android:propertyName="pivot"
+            android:valueTo="400f"
+            android:valueType="floatType" />
+    </set>
+</set>
